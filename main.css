@@ -38,4 +38,19 @@ li {
     width: 2000px;
     color: #eaeaea8b;
   }
+
+  .slideshow-container {
+    max-width: 800px;
+    position: relative;
+    margin: auto;
+  }
+
+  .mySlides {
+    display: none;
+  }
+
+  .mySlides img {
+    width: 100%;
+    height: auto;
+  }
   
